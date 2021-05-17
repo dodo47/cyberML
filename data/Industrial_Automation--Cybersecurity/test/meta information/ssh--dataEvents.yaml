@@ -1,0 +1,33 @@
+http://cybergraph/opc#app1:
+  http://cybergraph/opc#Read:
+    http://cybergraph/aml#UAVariable-currentL1: 33
+    http://cybergraph/aml#UAVariable-voltageL1-N: 33
+    http://cybergraph/aml#UAVariable-voltageL2-N: 33
+    http://cybergraph/aml#UAVariable-voltageL3-N: 33
+  http://cybergraph/opc#Write: {}
+http://cybergraph/opc#app2:
+  http://cybergraph/opc#Read:
+    http://cybergraph/aml#UAVariable-signalGreen: 23
+    http://cybergraph/aml#UAVariable-signalRed: 23
+    http://cybergraph/aml#UAVariable-signalYellow: 23
+  http://cybergraph/opc#Write:
+    http://cybergraph/aml#UAVariable-signalGreen: 23
+    http://cybergraph/aml#UAVariable-signalYellow: 23
+http://cybergraph/opc#app3:
+  http://cybergraph/opc#Read:
+    http://cybergraph/aml#UAVariable-proximitySwitch1: 63
+    http://cybergraph/aml#UAVariable-proximitySwitch2: 63
+    http://cybergraph/aml#UAVariable-ultrasonicLeft: 63
+    http://cybergraph/aml#UAVariable-ultrasonicRight: 63
+  http://cybergraph/opc#Write: {}
+http://cybergraph/opc#app4:
+  http://cybergraph/opc#Read:
+    http://cybergraph/aml#UAVariable-currentL1: 21
+    http://cybergraph/aml#UAVariable-currentL3: 21
+  http://cybergraph/opc#Write: {}
+http://cybergraph/opc#app5:
+  http://cybergraph/opc#Read:
+    http://cybergraph/aml#UAVariable-activePowerL1: 23
+    http://cybergraph/aml#UAVariable-activePowerL2: 23
+    http://cybergraph/aml#UAVariable-activePowerL3: 23
+  http://cybergraph/opc#Write: {}

@@ -1,0 +1,623 @@
+http://cybergraph/zeek#C_192.168.0.17_to_192.168.0.100:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 4
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 2
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_140.35: 1
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_305.6: 1
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_62541.0: 4
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 3
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 4
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 4
+http://cybergraph/zeek#C_192.168.0.17_to_192.168.0.55:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 180
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 180
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 180
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 180
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 180
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 180
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_http: 120
+http://cybergraph/zeek#C_192.168.0.18_to_10.0.pool:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 420
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 12
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 432
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 5
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 4
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 4
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 4
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 432
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.10:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 106
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 108
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 108
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.100:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 198
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 5
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 6
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 205
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_140.35: 2
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_305.6: 2
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_62541.0: 6
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 4
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 2
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 209
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 6
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.12:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_S0: 200
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 200
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 2
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 200
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.17:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 107
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 109
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 109
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.19:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 107
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 109
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 109
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.2:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 107
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 2
+    http://dodo/2020/literal/zeek#conn_state_categorical_S0: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 111
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 111
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.3:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 105
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 107
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 107
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.4:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_S0: 200
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 200
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 2
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 200
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.5:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 123
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 1
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 124
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 124
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.55:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 99
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 3
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 15
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 117
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 16
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 15
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 117
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 15
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_http: 10
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.60:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 20
+    http://dodo/2020/literal/zeek#conn_state_categorical_S0: 194
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 214
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 2
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 214
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.61:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 117
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 7
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 124
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 2
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 124
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.70:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 102
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 3
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 105
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 105
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.80:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 102
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 104
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 104
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.81:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 106
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 108
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 108
+http://cybergraph/zeek#C_192.168.0.18_to_192.168.0.82:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 105
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 107
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_49155.0: 1
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_5000.0: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 107
+http://cybergraph/zeek#C_192.168.0.19_to_192.168.0.100:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 6
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 2
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_140.35: 1
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_305.6: 3
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_62541.0: 6
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 1
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 5
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 6
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 6
+http://cybergraph/zeek#C_192.168.0.70_to_192.168.0.3:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTR: 6
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 2
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_140.35: 4
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_102.0: 6
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 5
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 6
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 4
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 2
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_s7comm: 6
+http://cybergraph/zeek#C_192.168.0.80_to_192.168.0.55:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 9
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 9
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 9
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 4
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 5
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 9
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 9
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssh: 9
+http://cybergraph/zeek#C_192.168.0.80_to_212.58.244.56:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 5
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 5
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 5
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 5
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 5
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 5
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 5
+http://cybergraph/zeek#C_192.168.0.80_to_212.58.244.57:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 3
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 3
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 3
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 3
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 3
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 3
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 3
+http://cybergraph/zeek#C_192.168.0.80_to_212.58.249.144:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 1
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 1
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 1
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 1
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 1
+http://cybergraph/zeek#C_192.168.0.80_to_212.58.249.145:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 5
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 5
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 5
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 5
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 5
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 5
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 5
+http://cybergraph/zeek#C_192.168.0.80_to_34.246.117.165:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 5
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 5
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 5
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 5
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 5
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 5
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 5
+http://cybergraph/zeek#C_192.168.0.80_to_52.209.191.15:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 7
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 7
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 7
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 7
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 7
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 7
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 7
+http://cybergraph/zeek#C_192.168.0.80_to_99.86.3.16:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 3
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 3
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 3
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 3
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 3
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 3
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 3
+http://cybergraph/zeek#C_192.168.0.80_to_99.86.3.23:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 6
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 6
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 6
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 6
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 6
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 6
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 6
+http://cybergraph/zeek#C_192.168.0.80_to_99.86.3.53:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 2
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 2
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 2
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 2
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 2
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 2
+http://cybergraph/zeek#C_192.168.0.80_to_99.86.3.67:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 1
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 1
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 1
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 1
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 1
+http://cybergraph/zeek#C_192.168.0.81_to_151.101.65.111:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 1
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 13
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 14
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 14
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 14
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 14
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 14
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 14
+http://cybergraph/zeek#C_192.168.0.81_to_172.217.23.100:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 10
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 6
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 16
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 16
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 16
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 16
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 16
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 16
+http://cybergraph/zeek#C_192.168.0.81_to_192.168.0.70:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_REJ: 1
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTR: 36
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 37
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 37
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 36
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 37
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 18
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to6: 6
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to7: 12
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 36
+http://cybergraph/zeek#C_192.168.0.81_to_42.0.pool:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTO: 1
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 1
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 1
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 1
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 1
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 1
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 1
+http://cybergraph/zeek#C_192.168.0.81_to_99.86.3.16:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 2
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 2
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 2
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 2
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 2
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 2
+http://cybergraph/zeek#C_192.168.0.81_to_99.86.3.23:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 7
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 7
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 7
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 7
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 7
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 7
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 7
+http://cybergraph/zeek#C_192.168.0.81_to_99.86.3.53:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 2
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 2
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 2
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 2
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 2
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 2
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 2
+http://cybergraph/zeek#C_192.168.0.81_to_99.86.3.67:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 3
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 3
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 3
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 3
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 3
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 3
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 3
+http://cybergraph/zeek#C_192.168.0.82_to_192.168.0.55:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_SF: 10
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 10
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_22.0: 10
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 1
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 9
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 10
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to3: 10
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssh: 10
+http://cybergraph/zeek#C_192.168.0.82_to_192.168.0.70:
+  http://dodo/2020/literal/zeek#conn_state:
+    http://dodo/2020/literal/zeek#conn_state_categorical_RSTR: 20
+  http://dodo/2020/literal/zeek#duration:
+    http://dodo/2020/literal/zeek#duration_kmean_cluster_0.39: 20
+  http://dodo/2020/literal/zeek#id.resp_p:
+    http://dodo/2020/literal/zeek#id.resp_p_categorical_443.0: 20
+  http://dodo/2020/literal/zeek#orig_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to2: 20
+  http://dodo/2020/literal/zeek#proto:
+    http://dodo/2020/literal/zeek#proto_categorical_tcp: 20
+  http://dodo/2020/literal/zeek#resp_bytes:
+    http://dodo/2020/literal/zeek#resp_bytes-zeek#orig_bytes_logCategorical_10to4: 20
+  http://dodo/2020/literal/zeek#service:
+    http://dodo/2020/literal/zeek#service_categorical_ssl: 20
