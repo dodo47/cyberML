@@ -6,8 +6,10 @@ This repository contains the dataset used in the publication "Machine learning o
 
 The data folder includes data generated from an industrial automation demonstrator that mimics the integration of OT and IT technologies.
 Activity from this system is recorded and subsequently transferred into a knowledge graph.
-The dataset is composed of a training set, which is a recording of baseline activity of the automation system, and a test set, where deviations from the baseline were added during test time according to standard cybersecurity attack patterns.
+The recorded data has been preprocessed for experiments (e.g., time stamps were dropped, variable accesses were solely modelled via edges, etc.), but alternative representations of the data are possible. 
+For this reason, the original raw data is included as well.
 
+The dataset is composed of a training set, which is a recording of baseline activity of the automation system, and a test set, where deviations from the baseline were added during test time according to standard cybersecurity attack patterns.
 Test scenarios are separated into the following categories:
 
 **ssh:** changes in ssh activity between system components. E.g., changes in connectivity patterns.
