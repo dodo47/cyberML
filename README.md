@@ -9,7 +9,7 @@ Activity from this system is recorded and subsequently transferred into a knowle
 The recorded data has been preprocessed for experiments (e.g., time stamps were dropped, variable accesses were solely modelled via edges, etc.), but alternative representations of the data are possible. 
 For this reason, the original raw data is included as well.
 
-The dataset is composed of a training set, which is a recording of baseline activity of the automation system, and a test set, where deviations from the baseline were added during test time according to standard cybersecurity attack patterns.  
+The dataset is composed of a training set, which is a recording of baseline activity of the automation system, and a test set, where deviations from the baseline were added during test time according to standard cybersecurity attack patterns.
 Test scenarios are separated into the following categories:
 
 **ssh:** changes in ssh activity between system components. E.g., changes in connectivity patterns.
