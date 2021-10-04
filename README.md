@@ -1,6 +1,13 @@
 # Machine learning on knowledge graphs for context-aware security monitoring
 
-This repository contains the dataset used in the publication "Machine learning on knowledge graphs for context-aware security monitoring".
+This repository contains the dataset and model used in the publications "Machine learning on knowledge graphs for context-aware security monitoring" (IEEE CSR 2021) and "An energy-based model for neuro-symbolic reasoning on knowledge graphs" (IEEE ICMLA 2021).
+To install the package, use
+
+`pip install -e .`
+
+after which the package can be imported in Python using
+
+`import enbed`
 
 ## Data
 
@@ -37,3 +44,7 @@ Novel activity is assigned five different degrees of severity:
 Data files contain subject, predicate and object (separated by tabs).
 In case of the benchmarks, the files also include the label in a fourth column.
 `.del` files contain the graph as ids, `.txt` files with string names.
+
+## Experiments
+
+Jupyter notebook where the energy-based graph embedding model is used to evaluate the severity of triple events in the individual benchmark cases.
