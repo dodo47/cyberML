@@ -76,7 +76,7 @@ and
 ```
 @inproceedings{doldy2021energy,
   title={An energy-based model for neuro-symbolic reasoning on knowledge graphs},
-  author={Doldy, Dominik and Garrido, Josep Soler},
+  author={Dold, Dominik and Garrido, Josep Soler},
   booktitle={2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)},
   pages={916--921},
   year={2021},
