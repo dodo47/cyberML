@@ -1,6 +1,6 @@
 # Machine learning on knowledge graphs for context-aware security monitoring
 
-This repository contains the dataset and model used in the publications "Machine learning on knowledge graphs for context-aware security monitoring" (IEEE CSR 2021) and "An energy-based model for neuro-symbolic reasoning on knowledge graphs" (IEEE ICMLA 2021).
+This repository contains the dataset and model used in the publications [Machine learning on knowledge graphs for context-aware security monitoring (IEEE CSR 2021)](https://arxiv.org/abs/2105.08741) and [An energy-based model for neuro-symbolic reasoning on knowledge graphs (IEEE ICMLA 2021)](https://arxiv.org/abs/2110.01639).
 
 ## Introduction
 
